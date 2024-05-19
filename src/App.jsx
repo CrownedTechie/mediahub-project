@@ -1,8 +1,11 @@
+import './App.css';
+import Header from './components/Header.jsx'
+
 function App() {
 
   return (
     <>
-      <h1>Media Hub</h1>
+      <Header />
     </>
   )
 }
